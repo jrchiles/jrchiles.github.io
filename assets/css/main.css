@@ -1686,3 +1686,7 @@ input, select, textarea {
 .contact-list .contact-text {
     font-size: 1rem;
 }
+
+body {
+    font-family: 'EB Garamond', serif !important;
+}
